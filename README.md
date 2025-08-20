@@ -1,2 +1,14 @@
 # Block-Strike 7.15.1 v2
-LinuxDroid combines the power of Linux with the flexibility of Android. Experience smooth performance, enhanced security, and open-source freedom in one platform designed for developers, tech enthusiasts, and everyday users worldwide."
+Бесплатный инжектор на Block Strike 7.15.1 v2 - ROOT
+
+Что было изменено?
+-Вернули старый инжектор. (произошли небольшие проблемы с новым инжектором)
+-Полная поддержка всех устройств. (стабильность функций)
+-Отсутствие автобана. (исключение - жалобы)
+-Убраны функции с чамсами.
+-Block Strike 7.15.1 (4456).
+
+Хотел бы сказать на счёт людей, которые используют инжектор на эмуляторе или виртуалках.
+ "Виртуалки" - Будет работать только если архитектура арм64 и версия андроид выше 8. (не на всех виртуалках)
+ "Эмуляторы" - Абсолютно не работает, совсем другая логика устройства.
+ 
